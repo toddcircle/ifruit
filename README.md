@@ -2,11 +2,6 @@ This is an iFruit boot theme, imspired by GTA5 and MacOS.
 
 ![Alt text](ifruit.png)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="fruit.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="fruit.png">
-</picture>
-
 -------------------------------------------------------------------
 Installation
 -------------------------------------------------------------------
