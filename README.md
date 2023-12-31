@@ -1,11 +1,22 @@
+This is an iFruit boot theme, imspired by GTA5 and MacOS.
+
+
+
 ###################################################################
 ###                       Installation                          ###
 ###################################################################
 
-5.) If we assume that the unzipped theme folder is located in your download directory:
+Assuming the unzipped ifruit theme folder is located in your download directory:
 
 Copy the finished theme to /usr/share/plymouth/themes:
 
 cd ~/Downloads
 
 sudo cp -r logo-mac-style /usr/share/plymouth/themes
+
+After copying, get a list of the installed themes with the following command:
+
+plymouth-set-default-theme --list
+
+Set it to iFruit theme:
+sudo plymouth-set-default-theme ifruit -R
