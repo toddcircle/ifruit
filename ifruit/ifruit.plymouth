@@ -33,12 +33,12 @@ UseEndAnimation=true
 UseFirmwareBackground=false
 
 [shutdown]
-UseEndAnimation=true
-UseFirmwareBackground=false
+UseEndAnimation=false
+UseFirmwareBackground=true
 
 [reboot]
-UseEndAnimation=true
-UseFirmwareBackground=false
+UseEndAnimation=false
+UseFirmwareBackground=true
 
 [updates]
 UseFirmwareBackground=false
