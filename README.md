@@ -12,7 +12,7 @@ Copy the finished theme to /usr/share/plymouth/themes:
 
 cd ~/Downloads/ifruit-main
 
-sudo cp -r logo-mac-style /usr/share/plymouth/themes
+sudo cp -r ifruit /usr/share/plymouth/themes
 
 After copying, get a list of the installed themes with the following command:
 
