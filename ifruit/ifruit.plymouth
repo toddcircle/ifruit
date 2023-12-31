@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=ifruit
-Description=iFruit Boot animation, inspired by GTA5.
+Description=iFruit Boot animation, inspired by GTA5 and MacOS.
 ModuleName=two-step
 
 [two-step]
@@ -45,7 +45,7 @@ UseFirmwareBackground=false
 SuppressMessages=true
 ProgressBarShowPercentComplete=true
 UseProgressBar=true
-Title=Install Updates...
+Title=Installing Updates...
 SubTitle=Please do not turn off your computer.
 
 [system-upgrade]
