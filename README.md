@@ -10,7 +10,7 @@ Assuming the unzipped ifruit theme folder is located in your download directory:
 
 Copy the finished theme to /usr/share/plymouth/themes:
 
-cd ~/Downloads
+cd ~/Downloads/ifruit-main
 
 sudo cp -r logo-mac-style /usr/share/plymouth/themes
 
