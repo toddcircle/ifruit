@@ -18,4 +18,5 @@ After copying, get a list of the installed themes with the following command:
 plymouth-set-default-theme --list
 
 Set it to iFruit theme:
+
 sudo plymouth-set-default-theme ifruit -R
