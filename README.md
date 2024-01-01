@@ -1,6 +1,6 @@
 This is an iFruit boot theme, imspired by GTA5 and MacOS.
 
-![Alt text](ifruit.png)
+![Alt text](ifruit_w.png)
 
 Installation
 -------------------------------------------------------------------
