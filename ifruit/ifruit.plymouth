@@ -34,11 +34,11 @@ UseFirmwareBackground=false
 
 [shutdown]
 UseEndAnimation=false
-UseFirmwareBackground=true
+UseFirmwareBackground=false
 
 [reboot]
 UseEndAnimation=false
-UseFirmwareBackground=true
+UseFirmwareBackground=false
 
 [updates]
 UseFirmwareBackground=false
